@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @i-got-to-eat
 - 👀 I’m interested in becoming a fullstack developper.
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate with Formation - tvo
 - 📫 How to reach me ...
 
 <!---
